@@ -47,7 +47,7 @@ public class Calculadora extends javax.swing.JFrame {
         jButton15.setText("X");
         jButton16.setText("/");
 
-        //Maquetación gráfica
+        //Maquetación gráfica 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
